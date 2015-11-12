@@ -1,0 +1,19 @@
+3 Errors Found.
+
+Error in following expression at line  4
+x = 10.5 
+Type of l-value is  int
+	10.5 is of type double
+
+
+Error in following expression at line  6
+y = a + b + c + 10.03f + 100.505 
+Type of l-value is  int
+	b is of type float
+	c is of type double
+	10.03f is of type float
+	100.505 is of type double
+
+
+Function funcabc may not return anything
+

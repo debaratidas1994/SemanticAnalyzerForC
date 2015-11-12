@@ -1,0 +1,27 @@
+int func123(double z)
+{
+int x;
+float y;
+if(z==10)
+{
+	if(x+y==z){
+		return x;
+    	}
+	else{
+		return y;
+	}
+	int j;
+	j=10.3+z*100.5f+10;
+	int i;
+	i=j*j;
+	printf("hi\s%d",i);
+}
+else { 
+if(something)
+{
+	return y;
+}
+}
+printf("hello");
+}
+
